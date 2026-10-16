@@ -1,0 +1,8 @@
+selenium
+chromadb
+streamlit
+sentence_transformers
+langchain_core
+langchain-text-splitters
+langchain-groq
+python-dotenv
